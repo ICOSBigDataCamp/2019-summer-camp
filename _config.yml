@@ -6,3 +6,8 @@ kramdown        :
 contact         : "mcburon@umich.edu"
 github_url      : "https://github.com/ibug-um"
 exclude         : [branding]
+
+defaults:
+  -
+    values:
+      layout: 'bootcamp'
