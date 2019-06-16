@@ -1,0 +1,342 @@
+year              ,id,age,region_of_interview,size,party,pres_approval
+2012,5,70,Middle atlantic,24,Strong democrat,Approve
+2012,6,50,Middle atlantic,24,Strong democrat,Disapprove
+2012,29,81,Middle atlantic,17,Strong democrat,Approve
+2012,32,63,Middle atlantic,43,Strong democrat,Approve
+2012,33,73,Middle atlantic,43,Strong democrat,Approve
+2012,38,49,Middle atlantic,14,Strong democrat,Approve
+2012,58,75,Middle atlantic,8175,Strong democrat,Approve
+2012,61,67,Middle atlantic,8175,Strong democrat,Approve
+2012,62,71,Middle atlantic,8175,Strong democrat,Approve
+2012,65,35,Middle atlantic,8175,Strong democrat,Approve
+2012,68,49,Middle atlantic,8175,Strong democrat,Approve
+2012,74,48,Middle atlantic,8175,Strong democrat,Approve
+2012,78,43,Middle atlantic,9,Strong democrat,Approve
+2012,83,44,Middle atlantic,8175,Strong democrat,Approve
+2012,85,64,Middle atlantic,8175,Strong democrat,Approve
+2012,91,54,Middle atlantic,8175,Strong democrat,Approve
+2012,92,34,Middle atlantic,8175,Strong democrat,Approve
+2012,94,48,Middle atlantic,8175,Strong democrat,Disapprove
+2012,95,52,Middle atlantic,8175,Strong democrat,Approve
+2012,102,75,Middle atlantic,8175,Strong democrat,Approve
+2012,105,24,Middle atlantic,8175,Strong democrat,Approve
+2012,118,40,New england,7,Strong republican,Approve
+2012,127,53,Pacific,26,Strong democrat,Approve
+2012,133,72,Pacific,11,Strong democrat,Approve
+2012,137,36,Pacific,84,Strong democrat,Approve
+2012,140,60,Pacific,56,Strong democrat,Approve
+2012,146,64,Pacific,462,Strong democrat,Approve
+2012,167,40,Pacific,137,Strong democrat,Approve
+2012,171,77,Pacific,137,Strong democrat,Approve
+2012,186,22,Pacific,39,Strong democrat,Approve
+2012,190,33,Pacific,39,Strong republican,Disapprove
+2012,195,65,Pacific,124,Strong democrat,Approve
+2012,202,20,Pacific,23,Strong democrat,Approve
+2012,203,39,Pacific,23,Strong democrat,Disapprove
+2012,206,61,Pacific,193,Strong democrat,Approve
+2012,222,54,Pacific,8,Strong democrat,Approve
+2012,227,64,E. nor. central,2696,Strong democrat,Approve
+2012,235,34,E. nor. central,2696,Strong democrat,Approve
+2012,257,30,E. nor. central,30,Strong democrat,Approve
+2012,265,68,E. nor. central,30,Strong republican,Disapprove
+2012,270,55,E. nor. central,41,Strong republican,Disapprove
+2012,274,59,E. nor. central,6,Strong democrat,Approve
+2012,276,71,E. nor. central,6,Strong democrat,Approve
+2012,277,32,South atlantic,27,Strong democrat,Approve
+2012,293,83,South atlantic,71,Strong democrat,Approve
+2012,294,64,South atlantic,71,Strong democrat,Approve
+2012,306,75,South atlantic,602,Strong democrat,Approve
+2012,307,46,South atlantic,602,Strong democrat,Disapprove
+2012,312,42,South atlantic,16,Strong democrat,Approve
+2012,320,57,South atlantic,4,Strong democrat,Approve
+2012,341,58,New england,28,Strong democrat,Approve
+2012,343,45,New england,28,Strong democrat,Approve
+2012,347,48,New england,43,Strong democrat,Approve
+2012,351,41,New england,105,Strong democrat,Approve
+2012,360,64,New england,9,Strong democrat,Approve
+2012,374,42,New england,6,Strong republican,Disapprove
+2012,377,63,Pacific,32,Strong democrat,Approve
+2012,392,23,Pacific,391,Strong democrat,Approve
+2012,395,29,Pacific,391,Strong democrat,Approve
+2012,409,69,Pacific,49,Strong democrat,Approve
+2012,414,59,Pacific,11,Strong democrat,Approve
+2012,425,45,W. sou. central,39,Strong democrat,Approve
+2012,427,70,W. sou. central,39,Strong republican,Disapprove
+2012,431,87,W. sou. central,1198,Strong republican,Disapprove
+2012,432,50,W. sou. central,1198,Strong democrat,Approve
+2012,436,51,W. sou. central,117,Strong republican,Disapprove
+2012,441,64,W. sou. central,11,Strong republican,Disapprove
+2012,446,34,W. sou. central,741,Strong republican,Disapprove
+2012,447,50,W. sou. central,5,Strong democrat,Approve
+2012,449,53,W. sou. central,5,Strong republican,Disapprove
+2012,450,64,W. sou. central,5,Strong democrat,Approve
+2012,454,67,South atlantic,61,Strong democrat,Approve
+2012,460,49,Middle atlantic,29,Strong republican,Disapprove
+2012,461,30,Middle atlantic,29,Strong democrat,Approve
+2012,474,48,Middle atlantic,1526,Strong democrat,Approve
+2012,476,77,Middle atlantic,1526,Strong democrat,Approve
+2012,485,82,Middle atlantic,61,Strong democrat,Approve
+2012,487,64,W. sou. central,2099,Strong democrat,Approve
+2012,495,56,W. sou. central,563,Strong republican,Disapprove
+2012,501,75,W. sou. central,2099,Strong republican,Disapprove
+2012,509,40,W. sou. central,94,Strong democrat,Approve
+2012,521,57,South atlantic,420,Strong democrat,Approve
+2012,537,56,South atlantic,28,Strong republican,Disapprove
+2012,543,43,South atlantic,67,Strong democrat,Approve
+2012,544,31,South atlantic,67,Strong democrat,Approve
+2012,554,80,South atlantic,166,Strong democrat,Approve
+2012,555,76,South atlantic,166,Strong democrat,Approve
+2012,556,40,South atlantic,166,Strong democrat,Approve
+2012,557,29,South atlantic,166,Strong democrat,Approve
+2012,558,86,South atlantic,166,Strong democrat,Approve
+2012,566,68,South atlantic,21,Strong democrat,Approve
+2012,567,37,South atlantic,21,Strong democrat,Approve
+2012,575,79,South atlantic,30,Strong democrat,Approve
+2012,578,59,South atlantic,30,Strong democrat,Approve
+2012,581,49,South atlantic,30,Strong democrat,Approve
+2012,584,52,E. nor. central,90,Strong republican,Disapprove
+2012,587,37,E. nor. central,90,Strong democrat,Approve
+2012,592,29,E. nor. central,63,Strong democrat,Approve
+2012,595,49,E. nor. central,63,Strong democrat,Approve
+2012,596,42,E. nor. central,63,Strong democrat,Approve
+2012,597,56,E. nor. central,63,Strong democrat,Approve
+2012,604,24,E. nor. central,134,Strong democrat,Disapprove
+2012,607,51,E. nor. central,134,Strong republican,Disapprove
+2012,608,30,E. nor. central,134,Strong democrat,Approve
+2012,610,46,E. nor. central,25,Strong republican,Disapprove
+2012,612,64,E. nor. central,25,Strong republican,Disapprove
+2012,615,66,Pacific,36,Strong democrat,Approve
+2012,622,33,Pacific,198,Strong republican,Disapprove
+2012,625,46,Pacific,198,Strong democrat,Disapprove
+2012,632,75,Pacific,70,Strong democrat,Approve
+2012,634,58,Pacific,609,Strong democrat,Approve
+2012,659,54,Mountain,1446,Strong democrat,Approve
+2012,662,63,Mountain,1446,Strong republican,Disapprove
+2012,665,50,W. nor. central,285,Strong democrat,Approve
+2012,670,41,W. nor. central,9,Strong democrat,Approve
+2012,673,39,W. nor. central,64,Strong democrat,Approve
+2012,674,61,W. nor. central,64,Strong democrat,Approve
+2012,693,57,Mountain,93,Strong republican,Disapprove
+2012,699,30,Mountain,600,Strong democrat,Approve
+2012,705,54,Mountain,1,Strong democrat,Approve
+2012,708,28,E. nor. central,12,Strong democrat,Approve
+2012,720,51,E. nor. central,49,Strong democrat,Approve
+2012,724,57,E. nor. central,19,Strong democrat,Approve
+2012,733,55,W. nor. central,319,Strong democrat,Approve
+2012,744,41,W. nor. central,19,Strong republican,Disapprove
+2012,747,50,W. nor. central,3,Strong republican,Disapprove
+2012,754,56,South atlantic,26,Strong republican,Disapprove
+2012,759,44,South atlantic,60,Strong democrat,Approve
+2012,767,51,South atlantic,48,Strong republican,Disapprove
+2012,769,43,South atlantic,48,Strong democrat,Approve
+2012,770,22,South atlantic,48,Strong republican,Disapprove
+2012,778,56,South atlantic,44,Strong democrat,Approve
+2012,797,51,Pacific,466,Strong republican,Disapprove
+2012,807,56,Middle atlantic,27,Strong republican,Approve
+2012,811,51,Middle atlantic,3,Strong democrat,Approve
+2012,812,72,Middle atlantic,3,Strong democrat,Approve
+2012,814,78,Middle atlantic,4,Strong republican,Disapprove
+2012,819,32,Middle atlantic,23,Strong democrat,Approve
+2012,827,26,South atlantic,79,Strong democrat,Approve
+2012,829,45,South atlantic,731,Strong democrat,Approve
+2012,834,55,South atlantic,731,Strong republican,Disapprove
+2012,863,68,E. nor. central,297,Strong democrat,Approve
+2012,865,55,E. nor. central,297,Strong democrat,Approve
+2012,866,62,E. nor. central,297,Strong democrat,Disapprove
+2012,867,31,W. sou. central,19,Strong republican,Disapprove
+2012,868,54,W. sou. central,19,Strong democrat,Approve
+2012,871,34,W. sou. central,19,Strong democrat,Approve
+2012,872,45,W. sou. central,1327,Strong democrat,Approve
+2012,886,32,E. nor. central,30,Strong republican,Disapprove
+2012,888,61,E. nor. central,30,Strong republican,Disapprove
+2012,893,42,E. nor. central,830,Strong republican,Disapprove
+2012,896,42,E. nor. central,830,Strong democrat,Approve
+2012,898,29,E. nor. central,830,Strong democrat,Disapprove
+2012,912,33,E. nor. central,787,Strong democrat,Approve
+2012,919,67,E. nor. central,1,Strong republican,Disapprove
+2012,924,84,Mountain,223,Strong democrat,Approve
+2012,954,41,E. nor. central,595,Strong republican,Disapprove
+2012,959,79,E. nor. central,40,Strong democrat,Approve
+2012,960,65,E. nor. central,40,Strong democrat,Approve
+2012,963,19,E. nor. central,40,Strong republican,Disapprove
+2012,965,31,E. nor. central,40,Strong republican,Disapprove
+2012,976,56,Mountain,43,Strong republican,Disapprove
+2012,979,69,Mountain,43,Strong republican,Disapprove
+2012,983,32,E. sou. central,10,Strong republican,Disapprove
+2012,991,49,E. sou. central,627,Strong democrat,Approve
+2012,993,50,E. sou. central,627,Strong republican,Disapprove
+2012,997,32,E. sou. central,627,Strong republican,Disapprove
+2012,1018,34,New england,16,Strong democrat,Approve
+2012,1022,78,New england,16,Strong democrat,Disapprove
+2012,1023,61,Middle atlantic,19,Strong democrat,Approve
+2012,1026,27,Middle atlantic,19,Strong democrat,Approve
+2012,1027,59,Middle atlantic,19,Strong democrat,Approve
+2012,1038,52,Middle atlantic,12,Strong republican,Disapprove
+2012,1069,37,Middle atlantic,44,Strong democrat,Approve
+2012,1070,37,Middle atlantic,44,Strong democrat,Disapprove
+2012,1095,30,South atlantic,9,Strong democrat,Approve
+2012,1098,67,South atlantic,12,Strong democrat,Approve
+2012,1099,78,South atlantic,12,Strong republican,Disapprove
+2012,1104,20,South atlantic,18,Strong democrat,Disapprove
+2012,1112,65,South atlantic,21,Strong republican,Disapprove
+2012,1114,32,South atlantic,21,Strong republican,Disapprove
+2012,1117,53,South atlantic,43,Strong democrat,Approve
+2012,1118,72,South atlantic,43,Strong democrat,Approve
+2012,1124,52,South atlantic,3,Strong democrat,Approve
+2012,1126,70,South atlantic,2,Strong republican,Disapprove
+2012,1127,73,South atlantic,2,Strong republican,Disapprove
+2012,1129,72,South atlantic,2,Strong republican,Disapprove
+2012,1139,82,South atlantic,7,Strong republican,Disapprove
+2012,1147,68,South atlantic,36,Strong democrat,Approve
+2012,1150,30,South atlantic,36,Strong democrat,Approve
+2012,1155,70,South atlantic,9,Strong democrat,Approve
+2012,1161,40,South atlantic,17,Strong democrat,Approve
+2012,1162,54,South atlantic,17,Strong republican,Disapprove
+2012,1164,55,South atlantic,17,Strong democrat,Approve
+2012,1165,23,South atlantic,17,Strong democrat,Approve
+2012,1166,21,South atlantic,17,Strong democrat,Approve
+2012,1171,64,South atlantic,5,Strong democrat,Approve
+2012,1172,52,South atlantic,12,Strong democrat,Approve
+2012,1175,30,South atlantic,12,Strong democrat,Approve
+2012,1181,52,South atlantic,25,Strong republican,Disapprove
+2012,1187,19,South atlantic,67,Strong republican,Disapprove
+2012,1189,38,South atlantic,67,Strong republican,Disapprove
+2012,1195,28,South atlantic,67,Strong democrat,Approve
+2012,1199,65,South atlantic,822,Strong democrat,Approve
+2012,1200,64,South atlantic,822,Strong democrat,Disapprove
+2012,1204,54,South atlantic,822,Strong democrat,Approve
+2012,1206,44,South atlantic,822,Strong democrat,Disapprove
+2012,1207,24,South atlantic,822,Strong democrat,Approve
+2012,1208,33,South atlantic,822,Strong democrat,Approve
+2012,1211,53,South atlantic,20,Strong republican,Disapprove
+2012,1217,60,South atlantic,23,Strong republican,Disapprove
+2012,1220,31,South atlantic,23,Strong republican,Disapprove
+2012,1230,63,South atlantic,42,Strong democrat,Approve
+2012,1236,77,South atlantic,165,Strong democrat,Approve
+2012,1242,84,E. sou. central,22,Strong republican,Disapprove
+2012,1243,30,E. sou. central,22,Strong republican,Disapprove
+2012,1248,55,E. sou. central,3,Strong democrat,Approve
+2012,1253,52,E. sou. central,3,Strong republican,Disapprove
+2012,1255,46,E. sou. central,180,Strong democrat,Approve
+2012,1261,81,E. sou. central,5,Strong republican,Disapprove
+2012,1263,62,E. sou. central,5,Strong republican,Disapprove
+2012,1267,48,E. sou. central,5,Strong republican,Disapprove
+2012,1268,37,E. sou. central,34,Strong democrat,Disapprove
+2012,1269,55,E. sou. central,34,Strong republican,Disapprove
+2012,1273,No answer,E. sou. central,206,Strong democrat,Approve
+2012,1276,77,E. sou. central,206,Strong democrat,Approve
+2012,1278,71,E. sou. central,206,Strong democrat,Approve
+2012,1284,49,E. sou. central,206,Strong democrat,Approve
+2012,1287,45,E. sou. central,206,Strong democrat,Approve
+2012,1299,37,E. sou. central,32,Strong republican,Disapprove
+2012,1301,33,E. sou. central,32,Strong republican,Disapprove
+2012,1305,65,E. sou. central,22,Strong democrat,Approve
+2012,1314,37,E. sou. central,3,Strong democrat,Approve
+2012,1319,52,E. sou. central,3,Strong democrat,Approve
+2012,1321,53,E. nor. central,2,Strong republican,Approve
+2012,1324,82,E. nor. central,2,Strong republican,Disapprove
+2012,1330,50,South atlantic,11,Strong republican,Disapprove
+2012,1339,66,South atlantic,31,Strong democrat,Disapprove
+2012,1344,47,South atlantic,3,Strong republican,Disapprove
+2012,1347,76,South atlantic,3,Strong republican,Disapprove
+2012,1356,47,Middle atlantic,16,Strong republican,Disapprove
+2012,1357,51,Middle atlantic,16,Strong democrat,Approve
+2012,1359,70,Middle atlantic,16,Strong democrat,Approve
+2012,1360,30,Middle atlantic,16,Strong democrat,Approve
+2012,1367,77,E. nor. central,12,Strong republican,Disapprove
+2012,1371,62,E. nor. central,12,Strong democrat,Approve
+2012,1374,34,E. nor. central,67,Strong democrat,Approve
+2012,1380,63,E. nor. central,67,Strong democrat,Disapprove
+2012,1386,31,E. nor. central,6,Strong democrat,Disapprove
+2012,1389,26,E. nor. central,24,Strong republican,Disapprove
+2012,1393,20,E. nor. central,49,Strong democrat,Approve
+2012,1394,42,E. nor. central,49,Strong democrat,Approve
+2012,1401,68,E. nor. central,49,Strong democrat,Approve
+2012,1405,34,E. nor. central,15,Strong republican,Disapprove
+2012,1413,41,E. nor. central,3,Strong republican,Disapprove
+2012,1418,35,E. nor. central,37,Strong democrat,Approve
+2012,1422,68,E. nor. central,37,Strong republican,Disapprove
+2012,1435,42,E. nor. central,3,Strong republican,Disapprove
+2012,1447,62,E. nor. central,49,Strong democrat,Disapprove
+2012,1453,60,W. nor. central,3,Strong republican,Disapprove
+2012,1458,51,W. nor. central,3,Strong democrat,Approve
+2012,1464,50,W. nor. central,3,Strong democrat,Approve
+2012,1473,46,W. nor. central,154,Strong democrat,Approve
+2012,1475,65,W. nor. central,154,Strong republican,Approve
+2012,1478,27,W. nor. central,154,Strong democrat,Approve
+2012,1485,45,W. nor. central,127,Strong republican,Disapprove
+2012,1500,52,W. nor. central,3,Strong democrat,Approve
+2012,1513,45,W. sou. central,17,Strong republican,Disapprove
+2012,1517,53,W. sou. central,121,Strong democrat,Approve
+2012,1520,20,W. sou. central,8,Strong republican,Disapprove
+2012,1521,23,W. sou. central,8,Strong republican,Disapprove
+2012,1553,65,W. sou. central,111,Strong republican,Disapprove
+2012,1563,27,Mountain,546,Strong democrat,Approve
+2012,1566,42,Mountain,546,Strong democrat,Approve
+2012,1575,65,Mountain,88,Strong republican,Disapprove
+2012,1590,63,Mountain,416,Strong democrat,Approve
+2012,1595,29,Mountain,416,Strong republican,Disapprove
+2012,1613,30,Pacific,495,Strong democrat,Disapprove
+2012,1614,76,Pacific,495,Strong republican,Approve
+2012,1621,57,Pacific,5,Strong republican,Disapprove
+2012,1634,68,Pacific,86,Strong democrat,Approve
+2012,1636,67,Pacific,86,Strong republican,Disapprove
+2012,1657,56,Pacific,23,Strong democrat,Approve
+2012,1665,63,Pacific,209,Strong republican,Approve
+2012,1671,37,Pacific,209,Strong democrat,Approve
+2012,1675,27,Pacific,1,Strong democrat,Approve
+2012,1679,18,Pacific,1,Strong democrat,Approve
+2012,1682,74,Pacific,7,Strong republican,Disapprove
+2012,1704,24,Mountain,7,Strong republican,Disapprove
+2012,1706,50,Mountain,7,Strong republican,Disapprove
+2012,1708,71,Mountain,26,Strong republican,Disapprove
+2012,1709,88,Mountain,26,Strong republican,Disapprove
+2012,1723,52,W. sou. central,22,Strong democrat,Approve
+2012,1724,74,W. sou. central,22,Strong democrat,Approve
+2012,1728,32,W. sou. central,54,Strong republican,Disapprove
+2012,1731,54,W. sou. central,54,Strong republican,Disapprove
+2012,1734,38,W. sou. central,5,Strong republican,Disapprove
+2012,1737,75,W. sou. central,1,Strong republican,Disapprove
+2012,1741,84,W. sou. central,4,Strong republican,Disapprove
+2012,1742,55,W. sou. central,4,Strong republican,Disapprove
+2012,1744,41,W. sou. central,3,Strong republican,Disapprove
+2012,1746,65,W. sou. central,3,Strong republican,Disapprove
+2012,1748,71,W. sou. central,3,Strong democrat,Approve
+2012,1755,54,W. sou. central,5,Strong democrat,Approve
+2012,1760,80,W. sou. central,7,Strong republican,Disapprove
+2012,1768,70,W. sou. central,1,Strong republican,Disapprove
+2012,1792,75,W. nor. central,14,Strong democrat,Disapprove
+2012,1798,37,W. nor. central,14,Strong democrat,Approve
+2012,1814,32,W. nor. central,1,Strong democrat,Approve
+2012,1825,69,E. nor. central,1,Strong democrat,Approve
+2012,1834,78,E. nor. central,16,Strong democrat,Approve
+2012,1839,74,E. nor. central,7,Strong democrat,Approve
+2012,1842,32,E. nor. central,7,Strong republican,Disapprove
+2012,1849,79,E. nor. central,2,Strong republican,Disapprove
+2012,1850,39,E. nor. central,2,Strong republican,Disapprove
+2012,1854,82,E. nor. central,0,Strong republican,Disapprove
+2012,1857,73,E. nor. central,0,Strong democrat,Approve
+2012,1858,78,E. nor. central,0,Strong republican,Disapprove
+2012,1860,62,E. nor. central,3,Strong democrat,Approve
+2012,1865,55,South atlantic,2,Strong republican,Disapprove
+2012,1867,71,South atlantic,2,Strong democrat,Disapprove
+2012,1869,56,South atlantic,2,Strong democrat,Approve
+2012,1871,51,E. nor. central,4,Strong democrat,Disapprove
+2012,1875,56,E. nor. central,4,Strong democrat,Disapprove
+2012,1883,47,E. sou. central,6,Strong democrat,Approve
+2012,1887,66,E. sou. central,6,Strong democrat,Approve
+2012,1898,55,E. sou. central,4,Strong democrat,Approve
+2012,1899,56,E. sou. central,4,Strong democrat,Approve
+2012,1906,62,South atlantic,4,Strong democrat,Disapprove
+2012,1909,39,South atlantic,1,Strong republican,Disapprove
+2012,1910,57,South atlantic,1,Strong democrat,Approve
+2012,1911,65,South atlantic,4,Strong democrat,Approve
+2012,1917,21,South atlantic,1,Strong republican,Approve
+2012,1919,66,South atlantic,4,Strong republican,Disapprove
+2012,1931,73,South atlantic,5,Strong republican,Disapprove
+2012,1951,40,New england,6,Strong democrat,Approve
+2012,1957,42,New england,2,Strong democrat,Approve
+2012,1965,65,New england,1,Strong democrat,Approve
+2012,1967,69,New england,1,Strong republican,Approve
+,,,,,,
+,,,,,,
